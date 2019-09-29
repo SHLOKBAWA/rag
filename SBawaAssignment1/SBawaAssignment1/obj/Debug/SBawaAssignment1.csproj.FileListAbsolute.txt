@@ -1,0 +1,11 @@
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\bin\Debug\SBawaAssignment1.exe.config
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\bin\Debug\SBawaAssignment1.exe
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\bin\Debug\SBawaAssignment1.pdb
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.csprojAssemblyReference.cache
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.Design_Form.resources
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.Form1.resources
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.Properties.Resources.resources
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.csproj.GenerateResource.cache
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.exe
+C:\Users\SHLOK\Desktop\ITID ASSIGNMENTS SEM3\GAME PROGRAMMING\ASSIGNMENT 1\SBawaAssignment1\SBawaAssignment1\obj\Debug\SBawaAssignment1.pdb
